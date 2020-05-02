@@ -1,6 +1,3 @@
-funny_links
----
-
 # Istio, Envoy
 
 ## Envoy
@@ -19,3 +16,6 @@ funny_links
 ### Adapter Pattern
 - [Mixer를 이용한 다양한 Adapter + Handler 사용해보기 (prom, redis, quota 등등)](https://knowledge.sakura.ad.jp/20681/)
 - [Envoy Attribute 디버깅할 때 유용한 controlZ](https://aidanbae.github.io/code/devops/k8s/istio-mixer-debug/)
+
+# Kubernetes
+무엇이 재밌을까?
