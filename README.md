@@ -11,6 +11,9 @@
 - [REST 기반 EDS 구현하기 (주의: REST는 polling임)](https://github.com/salrashid123/envoy_discovery)
 - [Envoy HTTP LB 기본: nginx, httpd](https://i-beam.org/2019/02/03/envoy-static-load-balancer/)
 
+### Envoy Network Traffic Flow
+- [iptables 규칙으로 Envoy network flow 살펴보기](https://blog.51cto.com/14625168/2477363)
+
 ## Istio
 
 ### Adapter Pattern
