@@ -13,6 +13,7 @@
 
 ### Envoy Network Traffic Flow
 - [iptables 규칙으로 Envoy network flow 살펴보기](https://blog.51cto.com/14625168/2477363)
+- [Envoy Inbound / Outbound traffic flow](https://jimmysong.io/en/blog/sidecar-injection-iptables-and-traffic-routing/)
 
 ## Istio
 
