@@ -18,4 +18,4 @@
 - [Envoy Attribute 디버깅할 때 유용한 controlZ](https://aidanbae.github.io/code/devops/k8s/istio-mixer-debug/)
 
 # Kubernetes
-무엇이 재밌을까?
+- [Kubernetes 1.18 Hard way](https://github.com/sgargel/kubernetes-the-hard-way-virtualbox)
