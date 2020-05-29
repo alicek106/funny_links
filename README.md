@@ -24,7 +24,18 @@
 # Kubernetes
 - [Kubernetes 1.18 Hard way](https://github.com/sgargel/kubernetes-the-hard-way-virtualbox)
 
-## Linux
+## Distributed Tracing
+- [A Life of Span](https://medium.com/jaegertracing/the-life-of-a-span-ee508410200b)
+- [How istio send tracing spans to jaeger](https://stackoverflow.com/questions/53459759/how-istio-send-tracing-spans-to-jaeger)
+- [Complete Guide for Tracing gRPC](https://programmaticponderings.com/tag/istio/)
 
-### Bash Basic
+## Prometheus, AlertManager
+- [Understanding alertmanager delays](https://pracucci.com/prometheus-understanding-the-delays-on-alerting.html)
+
+# Linux
+
+## Bash Basic
 - [nohub과 disown](https://velog.io/@jakeseo_me/nohup-disown-%EB%8A%94-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC%EB%90%A0%EA%B9%8C-9fjv7q9bz8)
+
+## Network
+- [DNS Troubleshooting Guide of Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-support-engineer-solves-a-tough-dns-case)
